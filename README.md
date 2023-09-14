@@ -255,6 +255,4 @@ Please note that the formulas include a 1% fee, as mentioned in the code comment
 
 It's important to understand these formulas and the impact they have on the conversion process when interacting with the smart contract in the decentralized exchange.
 
-## Disclaimer
 
-This project serves as an example and should not be considered as financial or investment advice. Always exercise caution and perform due diligence when using decentralized exchanges or interacting with smart contracts.
